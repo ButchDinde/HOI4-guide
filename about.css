@@ -37,3 +37,9 @@ body.n {
 a:any-link {
     color:white
 }
+
+.big:any-link {
+    font-size: larger;
+    color: black;
+    
+}
