@@ -1,6 +1,6 @@
 
 function myFunction(){
     var x = document.getElementById("background_image")
-    x.remove("background-image");
+    x.style.removeProperty("background_image");
 }
 
