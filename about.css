@@ -3,37 +3,31 @@ body{
 }
 
 h1.n {
-    color: white;
     text-align: center;
 }
 
 h2.n {
-    color: white;
     text-align: center;
 }
 
 table.n {
-    color: white;
     text-align: center;
 }
 
 h3.n {
-    color: white;
     text-align: center;
 }
 
 p.n {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: white;
 }
 
 caption.n {
     text-align: center;
-    color: white;
+
 }
 .n{
     font-weight: normal;
-    color: white;
 }
 
 body.n {
