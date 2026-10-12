@@ -32,4 +32,8 @@ body.n {
 .menu.active {
     color:white;
     text-decoration: white underline;
+    
+}
+a:any-link {
+    color:white
 }
