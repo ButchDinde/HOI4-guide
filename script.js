@@ -4,12 +4,12 @@ function myFunction(){
     x.style.removeProperty("background-image");
 }
 
-function disableImage(id){
-    var img = document.getElementById(id);
+function disableImage(){
+    var img = document.getElementById("fourohfour");
     if (img.style.display == 'block') {
         img.style.display = 'none'
     }
-    if (img.style.display == 'none') {
+    else {
         img.style.display = 'block'
     }
 }
