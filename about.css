@@ -2,30 +2,15 @@ body{
     background-color:antiquewhite;
 }
 
-h1.n {
+h1.n,h2.n,h3.n,caption.n {
     text-align: center;
 }
 
-h2.n {
-    text-align: center;
-}
-
-table.n {
-    text-align: center;
-}
-
-h3.n {
-    text-align: center;
-}
 
 p.n {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-caption.n {
-    text-align: center;
-
-}
 .n{
     font-weight: normal;
 }
@@ -34,4 +19,17 @@ body.n {
     background-color: antiquewhite;
 }
 
+#header {
+    background-color: black;
+    padding: 30px;
+    height: 90px;
 
+}
+
+.nav_menu {
+    color:white;
+}
+.menu.active {
+    color:white;
+    text-decoration: white underline;
+}
